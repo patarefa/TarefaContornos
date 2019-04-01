@@ -12,5 +12,6 @@ package proba;
 public class TarefaContornosTema5 {
     public static void main(String[] args){
         System.out.println("Pequeño programa de Román Arufe Blanco");
+        System.out.println("O meu nome é Daniel Villasenín Martínez");
     }
 }
